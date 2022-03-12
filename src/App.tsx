@@ -3,7 +3,8 @@ import { TheLayout } from "./views/pages/TheLayout";
 
 function App() {
   const [state, setState] = useState();
-  const a = 9;
+  console.log(process.env.REACT_APP_API_BASE_URL);
+
   return (
     <div>
       <TheLayout />
