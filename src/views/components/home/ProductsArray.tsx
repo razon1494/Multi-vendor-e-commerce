@@ -9,6 +9,7 @@ export const ProductsArray = ({ products }: { products: IProduct[] }) => {
       ))}
       <table>
         <th></th>
+        <tbody></tbody>
       </table>
     </div>
   );
