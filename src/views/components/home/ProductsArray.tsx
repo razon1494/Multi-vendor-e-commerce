@@ -9,10 +9,6 @@ export const ProductsArray = ({ products }: { products: IProduct[] }) => {
       ))}
       <h1>uiuiuiuiu</h1>
       <h1>uiuiuiuiu</h1>
-      <h1>uiuiuiuiu</h1>
-      <h1>uiuiuiuiu</h1>
-      <h1>uiuiuiuiu</h1>
-      <h1>uiuiuiuiu</h1>
     </div>
   );
 };
