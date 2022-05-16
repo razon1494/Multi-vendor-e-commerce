@@ -8,7 +8,7 @@ export const ProductsArray = ({ products }: { products: IProduct[] }) => {
         <ProductCard key={product._id} product={product}></ProductCard>
       ))}
       <h1>fdgh</h1>
-      <input type="text" name="f" id="f" />
+      <h1>dsfdgf</h1>
     </div>
   );
 };
