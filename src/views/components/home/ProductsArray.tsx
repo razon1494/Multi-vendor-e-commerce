@@ -8,6 +8,17 @@ export const ProductsArray = ({ products }: { products: IProduct[] }) => {
         <ProductCard key={product._id} product={product}></ProductCard>
       ))}
       <h5>p</h5>
+      <h5>p</h5>
+      <h5>p</h5>
+      <h5>p</h5>
+      <h5>p</h5>
+      <h5>p</h5>
+      <h5>p</h5>
+      <h5>p</h5>
+      <h5>p</h5>
+      <h5>p</h5>
+      <h5>p</h5>
+      <h5>p</h5>
     </div>
   );
 };
