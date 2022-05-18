@@ -7,9 +7,7 @@ export const ProductsArray = ({ products }: { products: IProduct[] }) => {
       {products.map((product: IProduct) => (
         <ProductCard key={product._id} product={product}></ProductCard>
       ))}
-      <p></p>
-
-      <p></p>
+      <h1>dfgfdh</h1>
     </div>
   );
 };
