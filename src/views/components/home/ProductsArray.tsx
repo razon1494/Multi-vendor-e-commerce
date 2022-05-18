@@ -10,6 +10,9 @@ export const ProductsArray = ({ products }: { products: IProduct[] }) => {
       <p></p>
       <p></p>
       <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
     </div>
   );
 };
