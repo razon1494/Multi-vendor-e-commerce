@@ -8,10 +8,7 @@ export const ProductsArray = ({ products }: { products: IProduct[] }) => {
         <ProductCard key={product._id} product={product}></ProductCard>
       ))}
       <p></p>
-      <p></p>
-      <p></p>
-      <p></p>
-      <p></p>
+
       <p></p>
     </div>
   );
