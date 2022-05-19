@@ -14,7 +14,6 @@ export const ProductsArray = ({ products }: { products: IProduct[] }) => {
       <h1 className="5"></h1>
       <h1 className="6"></h1>
       <h1 className="7"></h1>
-      <h1 className="8"></h1>
     </div>
   );
 };
