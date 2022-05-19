@@ -20,7 +20,6 @@ export const ProductsArray = ({ products }: { products: IProduct[] }) => {
       <h1 className="11"></h1>
       <h1 className="12"></h1>
       <h1 className="13"></h1>
-      <h1 className="14"></h1>
     </div>
   );
 };
