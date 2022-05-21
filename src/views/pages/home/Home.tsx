@@ -30,7 +30,6 @@ const Home = () => {
         <h1 className="10"></h1>
         <h1 className="11"></h1>
         <h1 className="12"></h1>
-        <h1 className="13"></h1>
       </div>
       <Increment></Increment>
     </main>
