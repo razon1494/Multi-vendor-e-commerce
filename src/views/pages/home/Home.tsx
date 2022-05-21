@@ -19,7 +19,6 @@ const Home = () => {
       <div className="products">
         <ProductsArray products={products}></ProductsArray>
         <h1 className="1"></h1>
-        <h1 className="2"></h1>
       </div>
       <Increment></Increment>
     </main>
