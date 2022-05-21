@@ -34,7 +34,6 @@ const Home = () => {
         <h1 className="14"></h1>
         <h1 className="15"></h1>
         <h1 className="16"></h1>
-        <h1 className="17"></h1>
       </div>
       <Increment></Increment>
     </main>
